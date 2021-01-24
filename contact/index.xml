@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on ShuffleShuffle</title>
+    <link>https://www.shuffleshuffle.com/contact/</link>
+    <description>Recent content in Contacts on ShuffleShuffle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shuffleshuffle.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://www.shuffleshuffle.com/contact/contact/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shuffleshuffle.com/contact/contact/</guid>
+      <description>如果您对我们的节目有任何感想，欢迎发信至:
+shuffleshuffle@126.com</description>
+    </item>
+    
+  </channel>
+</rss>
