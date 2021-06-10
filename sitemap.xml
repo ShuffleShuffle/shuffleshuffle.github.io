@@ -1,80 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://www.shuffleshuffle.com/posts/ep04/</loc>
+    <lastmod>2021-06-10T22:47:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.shuffleshuffle.com/posts/</loc>
+    <lastmod>2021-06-10T22:47:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.shuffleshuffle.com/</loc>
+    <lastmod>2021-06-10T22:47:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/posts/ep03%E7%95%AA%E5%A4%96/</loc>
     <lastmod>2021-04-29T22:20:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shuffleshuffle.com/posts/</loc>
-    <lastmod>2021-04-29T22:20:20+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shuffleshuffle.com/</loc>
-    <lastmod>2021-04-29T22:20:20+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/posts/ep03/</loc>
     <lastmod>2021-04-26T00:09:13+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/posts/ep02/</loc>
     <lastmod>2021-04-01T00:00:23+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/posts/ep01/</loc>
     <lastmod>2021-03-04T21:21:19+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/about/about/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/about/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/posts/first-post/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.shuffleshuffle.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
